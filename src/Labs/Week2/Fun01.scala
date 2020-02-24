@@ -1,7 +1,5 @@
 package Labs.Week2
 
-import sun.awt.geom.Crossings.EvenOdd
-
 object Fun01 {
   def incr(x: Int): Int = x+1
   def decr(x: Int): Int = x-1
